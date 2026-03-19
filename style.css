@@ -1397,6 +1397,7 @@ ul { list-style: none; }
   .nav-links a { font-size: 1.2rem; }
   .nav-burger { display: flex; }
   .nav-cta { display: none; }
+  .hero-tagline { font-size: 0.85rem; letter-spacing: 0.12em; }
 
   .hero-title { font-size: clamp(3rem, 12vw, 4.5rem); }
   .hero-stats { gap: 28px; }
