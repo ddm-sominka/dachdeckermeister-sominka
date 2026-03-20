@@ -666,7 +666,7 @@ ul { list-style: none; }
 .about-image-main img {
   height: auto;
   width: 100%;
-  max-width: 420px;
+  max-width: 750px;
   object-fit: contain;
   object-position: bottom;
   transition: transform 0.8s ease;
