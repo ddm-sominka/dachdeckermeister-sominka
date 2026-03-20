@@ -1403,7 +1403,7 @@ ul { list-style: none; }
 @media (max-width: 1024px) {
   .about-grid    { grid-template-columns: 1fr; gap: 0; }
   .about-image-wrap { margin-bottom: -20px; }
-  .about-image-main img { max-width: 280px; }
+  .about-image-main img { max-width: 380px; }
   .about-text    { padding-left: 0; }
   .services-grid { grid-template-columns: repeat(2, 1fr); }
   .why-inner     { grid-template-columns: repeat(2, 1fr); }
