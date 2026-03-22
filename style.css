@@ -218,7 +218,7 @@ ul { list-style: none; }
 
 .hero-tagline {
   font-family: var(--font-cond);
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
   color: rgba(245,245,240,0.75);
