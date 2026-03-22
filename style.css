@@ -223,7 +223,6 @@ ul { list-style: none; }
   text-transform: uppercase;
   color: rgba(245,245,240,0.75);
   margin-bottom: 8px;
-  white-space: nowrap; 
 }
 
 .hero-location {
